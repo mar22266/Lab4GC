@@ -2,6 +2,8 @@
 
 This repository contains a software renderer that creates and displays a solar system with various celestial bodies using shaders. The project demonstrates creativity and shader complexity, rendering planets and stars with unique visual effects, solely by manipulating colors without textures or materials.
 
+## Pictures of Planets
+
 ## Objective
 
 The goal of this project is to practice creating interesting shaders by varying colors and utilizing parameters at hand. Specifically, the project implements seven celestial bodies, each with its own shader, as follows:
