@@ -107,7 +107,7 @@ void render()
                 fragmentShader = gasGiantShader;
                 break;
             case SUN:
-                fragmentShader = sunShader; // Asumiendo que tienes una función llamada sunShader
+                fragmentShader = sunShader;
                 break;
             case EARTH:
                 fragmentShader = earthShader;
