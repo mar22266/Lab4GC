@@ -28,8 +28,8 @@ This repository contains a software renderer that creates and displays a solar s
 The goal of this project is to practice creating interesting shaders by varying colors and utilizing parameters at hand. Specifically, the project implements seven celestial bodies, each with its own shader, as follows:
 - **Rocky Planet**
 - **Gas Giant**
-- **Sun (Star)**
-- **Earth (with atmosphere)**
+- **Sun**
+- **Earth**
 - **Mars**
 - **Neptune**
 - **Star**
